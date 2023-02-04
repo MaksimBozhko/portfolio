@@ -1,0 +1,19 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #ffccef;
+}
+.content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.text {
+    width: 300px;
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #e3ffba;
+}

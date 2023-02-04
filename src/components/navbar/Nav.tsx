@@ -1,12 +1,15 @@
 import React from 'react';
-import s from './Header.module.css'
+import s from './nav.module.css'
 
-const Header = () => {
+const Nav = () => {
     return (
-        <div className={s.header}>
-
+        <div className={s.nav}>
+            <a href="">главная</a>
+            <a href="">скиллы</a>
+            <a href="">проекты</a>
+            <a href="">контакты</a>
         </div>
     );
 };
 
-export default Header;
+export default Nav;

@@ -1,0 +1,14 @@
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+.btnSend {
+    width: 100px;
+}

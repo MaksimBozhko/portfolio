@@ -1,0 +1,17 @@
+.projectItem {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e3ffba;
+
+}
+.imgContainer {
+    width: 100px;
+    height: 100px;
+    background-color: #06ffdd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

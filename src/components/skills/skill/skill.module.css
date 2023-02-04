@@ -1,10 +1,7 @@
-.skillsBlock {
-    height: 100vh;
-    background-color: #ffe9bd;
-}
-.skillsContent {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 30px;
+.skillBlock {
+    margin: 10px;
+    background-color: #ecebff;
+    width: 300px;
+    min-height: 150px;
+    height: 100%;
 }
